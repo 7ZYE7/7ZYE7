@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STYLE-DARK_MANGA-FF003C?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-FFFFFF?style=flat-square&labelColor=000000" />
 </p>
 
 ---
