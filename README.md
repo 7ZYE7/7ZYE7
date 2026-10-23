@@ -12,11 +12,11 @@
 
 <p align="center">
   <samp>
-    <strong>SOFTWARE DEVELOPMENT</strong>
+    <strong>IT STUDENT • IFPA<strong>
     <br />
     <span style="color:#FF003C">●</span> DARK AESTHETIC
     <br />
-    <em>Learning. Building. Improving.</em>
+    <em>Learning. Building. Evolving. Improving.</em>
   </samp>
 </p>
 
@@ -29,10 +29,10 @@
 
 ##  Sobre mim / About me
 
-- 💻 Estudando desenvolvimento de software.
+- 💻 Estudando desenvolvimento de software, DB, Back-end, front-end.
 - ⚙️ Aprendendo programação e explorando novas tecnologias.
-- 🩸 Fã de Tokyo Ghoul, mangás e cultura pop.
-- 🌑 Sempre buscando evoluir, um commit de cada vez.
+- 🩸 gosto de mangás, música, arte e cultura pop.
+- 🌑 Sempre buscando evoluir e aprender coisas novas, um commit de cada vez.
 
 ---
 
