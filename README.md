@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Minhas Estatísticas" />
-  <img src="https://vercel.app" alt="Minhas Linguagens" />
+  <img src="https://herokuapp.com" alt="Minhas Estatísticas" />
 </p>
 
 <p align="center">
