@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&title_color=ff003c&icon_color=ff003c&text_color=c9d1d9&border_color=30363d" alt="Minhas Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=7ZYE7&show_icons=true&theme=transparent&title_color=ff003c&icon_color=ff003c&text_color=c9d1d9&border_color=30363d" alt="Minhas Estatísticas" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=ff003c&label=VISITAS" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=7ZYE7&style=flat-square&color=ff003c&label=VISITAS" alt="Contador de Visitas" />
 </p>
 
 ## 🩸 Sobre mim / About me
