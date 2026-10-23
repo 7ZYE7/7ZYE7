@@ -78,8 +78,7 @@
 
 <p align="center">
   <samp>
-    <strong>「 EVEN IN DARKNESS, KEEP CREATING 」</strong>
+    <strong>「 EVEN IN DARKNESS, KEEP CREATING AND EVOLVING 」</strong>
     <br />
-    🩸 BLACK SOUL • RED BLOOD 🩸
   </samp>
 </p>
