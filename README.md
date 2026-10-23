@@ -68,7 +68,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=7ZYE7&label=VISITAS&color=FF003C&style=for-the-badge"
+    src="https://profileviews.blueorbitdevs.workers.dev/?username=7ZYE7&color=dc143c&style=for-the-badge&label=PROFILE%20VIEWS"
     alt="Profile Views"
   />
 </p>
