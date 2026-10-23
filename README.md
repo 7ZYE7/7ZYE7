@@ -16,7 +16,7 @@
   <samp>
     <strong>IT STUDENT • IFPA</strong>
     <br />
-    🩸 DARK IS NEEDED TO SEE THE LIGHT
+     DARK IS NEEDED TO SEE THE LIGHT
     <br />
     <em>Learning. Building. Evolving. Improving.</em>
   </samp>
@@ -31,7 +31,7 @@
 
 ---
 
-## 🩸 Sobre mim / About me
+##  Sobre mim / About me
 
 - 💻 Estudando Informática, bancos de dados, back-end e front-end.
 - ⚙️ Aprendendo programação e explorando novas tecnologias.
@@ -40,7 +40,7 @@
 
 ---
 
-## 🩸 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img
@@ -69,7 +69,7 @@
 
 ---
 
-## 👁️ Profile Views
+##  Profile Views
 
 <p align="center">
   <img
