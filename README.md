@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://githubusercontent.com" width="100%">
-</p>
-
-<p align="center">
   <img src="https://herokuapp.com" alt="Minhas Estatísticas" />
 </p>
 
