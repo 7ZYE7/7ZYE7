@@ -66,20 +66,6 @@
     alt="GitHub Contribution Streak"
   />
 </p>
-
----
-
-##  Profile Views
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=7ZYE7&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
-</p>
-
----
-
 <p align="center">
   <samp>
     <strong>「 EVEN IN DARKNESS, KEEP CREATING AND EVOLVING 」</strong>
