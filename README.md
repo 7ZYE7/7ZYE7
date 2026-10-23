@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center">
-  <span style="color:#FF003C">「</span> 7ZYE7
+  <span style="color:#FF003C">「</span> ZYE
   <span style="color:#FF003C">」</span>
 </h2>
 
