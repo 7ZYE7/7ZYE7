@@ -19,4 +19,3 @@
 
 - 🧑‍💻 Estudando desenvolvimento de software / *Studying software development*
 - 👾 Fã de Tokyo Ghoul e cultura pop
-
