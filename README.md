@@ -68,7 +68,7 @@
 
 <p align="center">
   <img
-    src="[https://komarev.com/ghpvc/?username=7ZYE7&style=flat-square&color=8B0000&label=PROFILE+VIEWS](https://github.com/antonkomarev/github-profile-views-counter.git)"
+    src="https://komarev.com/ghpvc/?username=7ZYE7&style=flat-square&color=8B0000&label=PROFILE+VIEWS](https://github.com/antonkomarev/github-profile-views-counter.git"
     alt="Profile Views"
   />
 </p>
