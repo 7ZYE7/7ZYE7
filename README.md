@@ -1,4 +1,3 @@
-
 <!-- BANNER TOKYO GHOUL -->
 <p align="center">
   <img
