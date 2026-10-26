@@ -42,12 +42,6 @@
 
 ##  GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=7ZYE7&show_icons=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=FF003C&text_color=FFFFFF&icon_color=FF003C"
-    height="165"
-    alt="GitHub Statistics"
-  />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ZYE7&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FF003C&text_color=FFFFFF"
     height="165"
