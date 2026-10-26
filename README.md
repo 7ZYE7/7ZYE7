@@ -1,10 +1,13 @@
 <!-- BANNER TOKYO GHOUL -->
 <p align="center">
-  <img
-    src="https://images4.alphacoders.com/141/thumb-1920-1415593.jpg"
+  <video
+    src="https://www.youtube.com/watch?v=x7IVN8bflO4"
     width="100%"
-    alt="Tokyo Ghoul Dark Banner"
-  />
+    autoplay
+    loop
+    muted
+    playsinline
+  ></video>
 </p>
 
 <h2 align="center">
