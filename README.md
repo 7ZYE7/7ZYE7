@@ -1,13 +1,10 @@
 <!-- BANNER TOKYO GHOUL -->
 <p align="center">
-  <video
-    src="file:///C:/Users/aluno.labs/Downloads/ken-kaneki-tokyo-ghoul-re-moewalls-com%20(1).gif"
+  <img
+    src="https://images4.alphacoders.com/141/thumb-1920-1415593.jpg"
     width="100%"
-    autoplay
-    loop
-    muted
-    playsinline
-  ></video>
+    alt="Tokyo Ghoul Dark Banner"
+  />
 </p>
 
 <h2 align="center">
