@@ -1,9 +1,9 @@
 <!-- BANNER TOKYO GHOUL -->
 <p align="center">
   <img
-    src="https://i.pinimg.com/1200x/ac/43/66/ac4366a7fc0236a06851e0726617c145.jpg"
+    src="https://github.com/user-attachments/assets/7bbbab76-4870-4596-a66d-fbb2ad6401d1"
     width="100%"
-    alt="Tokyo Ghoul Dark Banner"
+    alt="Dark Banner"
   />
 </p>
 
