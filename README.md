@@ -2,7 +2,7 @@
 <p align="center">
   <img
     src="https://i.pinimg.com/1200x/ac/43/66/ac4366a7fc0236a06851e0726617c145.jpg"
-    width="200%"
+    width="100%"
     alt="Dark Banner"
   />
 </p>
