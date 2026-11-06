@@ -39,17 +39,6 @@
 
 ---
 
-##  GitHub Statistics
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ZYE7&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FF003C&text_color=FFFFFF"
-    height="165"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
 ## 🕷️ Contribution Streak
 
 <p align="center">
