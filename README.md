@@ -1,7 +1,7 @@
 <!-- BANNER TOKYO GHOUL -->
 <p align="center">
   <img
-    src="https://images4.alphacoders.com/141/thumb-1920-1415593.jpg"
+    src="https://i.pinimg.com/736x/88/59/eb/8859ebd16142a6c68d11a21d8bfa9ac2.jpg"
     width="100%"
     alt="Tokyo Ghoul Dark Banner"
   />
